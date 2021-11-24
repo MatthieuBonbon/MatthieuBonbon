@@ -14,8 +14,10 @@ List of projects I worked on :
 
   Video games : ( availible here : https://gamejolt.com/@NAI_GAMES/games )
     
-     - Zombie Community : a FPS/TPS shooter who has the constraint to use only the assets created and given for free by the Unreal Engine Marketplace Community.
+     - Zombie Community : a FPS/TPS shooter who has the constraint to use only the assets 
+        created and given for free by the Unreal Engine Marketplace Community.
      
      - Bob & Snoop : a 2D arcade game
      
-     - Soirée Disco : a fan game about the song who has the same name (very famous in France) : https://www.youtube.com/watch?v=n0xJehv5Fag
+     - Soirée Disco : a fan game about the song who has the same name 
+        (very famous in France) : https://www.youtube.com/watch?v=n0xJehv5Fag
