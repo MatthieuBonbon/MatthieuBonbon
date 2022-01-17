@@ -4,6 +4,8 @@ This list will be updated each time a new project is published.
 
 List of projects I worked on :
 
+  - Cypher (Dart) : A mobile app developed in my free time. (in a private repo for the moment - public asap).
+
   - prototype_RPG (Java) : A study project about an implementation of the prototype of an RPG. Uses (for the class modeling) the design pattern described by the GoF in the book *Design Patterns: Elements of Reusable Object-Oriented Software*
   
   - Bucket3000 (Java) : A study project about data anonymization. Uses in particular Bucketization methods and one-dimensional and multi-dimensional algorithms.
