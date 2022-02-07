@@ -6,7 +6,7 @@ List of projects I worked on :
 
   - tabGenericite_en_C : A study project about the creation and use of generic arrays through different usual functions (split, filter, max, pop, push, etc ...).
 
-  - Cypher (Dart) : A mobile app developed in my free time. (in a private repo for the moment - public asap).
+  - Cypher (Dart) : A mobile app developed in my free time. It's a music-themed local game for Android 5.0 and above. Uses the Flutter framework for the responsive front-end and a dictionary extracted from the French Wiktionary in Perl with the G-PeTo tool (Toulouse 2 University, France) for the back-end. 
 
   - prototype_RPG (Java) : A study project about an implementation of the prototype of an RPG. Uses (for the class modeling) the design pattern described by the GoF in the book *Design Patterns: Elements of Reusable Object-Oriented Software*
   
